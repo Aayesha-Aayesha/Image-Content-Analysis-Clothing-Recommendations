@@ -1,1 +1,1 @@
-# Cloth-Recommendations-Image-Content-Analysis-
+# Image-Content-Analysis-Clothing-Recommendations
