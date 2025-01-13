@@ -1,6 +1,6 @@
 # Image-Content-Analysis-Clothing-Recommendations
 The goal of this work is to provide decison-support to the customers in their shopping selections.
-This idea comes up with the images analysis of a customer's shopping selections and provide top three recommendations out of his/her selections.
+This idea comes up with the images analysis of a customer's shopping selections and provide top three recommendations out of his/her shopping choices.
 
 This work conducted in following steps:
 
